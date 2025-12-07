@@ -48,7 +48,7 @@ import NavBar from "../component/NavBar";
 import OtpInput from "react-otp-input";
 
 // export const serverRoute = "http://localhost:8080";
-export const serverRoute = "https://abshr-se-bh5e.onrender.com";
+export const serverRoute = "https://abshr-se-uj7n.onrender.com";
 
 export const socket = io(serverRoute);
 const Main = ({ setMode, checkMode }) => {
